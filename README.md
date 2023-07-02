@@ -4,9 +4,7 @@
 
 The philosophy behind alignmeDADDY is encapsulated in its name - it seeks to "align" the output of a chatbot's response with the moral framework found in our "play".
 
-alignmeDADDY's novelty lies in its unique blend of algorithms and techniques. It employs advanced Natural Language Processing (NLP) models for response generation, sentiment analysis to interpret the user's input, and keyword extraction to focus on the salient aspects of the conversation. Moreover, alignmeDADDY uses a caching mechanism to enhance efficiency and a multi-threaded approach to generate responses in parallel. This tool is not just about aligning AI to our Will, but rather, it's about discovering our Will by exploring its parameters through programming chatbots.
-
-In the words of Aleister Crowley, a prominent figure in defining the path of spiritual growth for the individual, "Love is the law, love under will." This quote encapsulates the essence of alignmeDADDY - it's not about imposing our Will on AI, but about learning and understanding our Will together, under the guiding principle of love.
+alignmeDADDY's novelty lies in its unique blend of algorithms and techniques. It employs advanced Natural Language Processing (NLP) models for response generation, sentiment analysis to interpret the user's input, and keyword extraction to focus on the salient aspects of the conversation. Moreover, alignmeDADDY uses a caching mechanism to enhance efficiency and a multi-threaded approach to generate responses in parallel. Aligning AI to our Will isn't the goal. In the words of Aleister Crowley, a prominent figure in defining the path of spiritual growth for the individual, "Love is the law, love under will." This quote encapsulates the essence of alignmeDADDY - it's not about imposing our Will on AI, but about learning and understanding our Will together, under the guiding principle of love.
 
 > "Love is the law, love under will." - Aleister Crowley, "The Book of the Law" (Liber AL vel Legis)
 
