@@ -1,5 +1,8 @@
 ## alignmeDADDY 📎🖇😈
 
+![alignmeDADDYScreenshot 2023-07-02 140342](https://github.com/EveryOneIsGross/alignmeDADDY/assets/23621140/754c213b-0901-4692-a313-e96a72859e02)
+
+
 The philosophy behind alignmeDADDY is encapsulated in its name - it seeks to "align" the output of a chatbot's response with the moral framework found in our "play". This tool is not just about creating a chatbot; it's about crafting an experience that is both engaging and enlightening.
 
 alignmeDADDY's novelty lies in its unique blend of algorithms and techniques. It employs advanced Natural Language Processing (NLP) models for response generation, sentiment analysis to interpret the user's input, and keyword extraction to focus on the salient aspects of the conversation. Moreover, alignmeDADDY uses a caching mechanism to enhance efficiency and a multi-threaded approach to generate responses in parallel. This tool is not just about aligning AI to our Will, but rather, it's about discovering our Will by exploring its parameters through programming chatbots.
