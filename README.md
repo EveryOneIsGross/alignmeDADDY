@@ -8,6 +8,8 @@ alignmeDADDY's novelty lies in its unique blend of algorithms and techniques. It
 
 > "Love is the law, love under will." - Aleister Crowley, "The Book of the Law" (Liber AL vel Legis)
 
+![Default_Hermes_Trismegistus_as_a_black_ink_on_white_paper_Thou_0](https://github.com/EveryOneIsGross/alignmeDADDY/assets/23621140/71a566fc-625d-4718-b4a5-f2a03cb49411)
+
 ## How it Works
 
 alignmeDADDY defines three character alignments: lawful, neutral, and chaotic. Each alignment has a distinct personality that guides their responses. The sentiment of the user's question influences the character's status, which can be good, neutral, or evil. This combination of alignment, status, and sentiment creates a unique context for each response.
