@@ -1,8 +1,6 @@
 ## alignmeDADDY
 
-📎🖇😈
-
-The philosophy behind alignmeDADDY is encapsulated in its name - it seeks to "align" the output of a chatbot's response with the moral framework found in our "play".
+The philosophy behind alignmeDADDY is encapsulated in its name - it seeks to "align" the output of a chatbot's response with the moral framework found in our "play". 📎🖇😈
 
 ![alignme-daddy-skele](https://github.com/EveryOneIsGross/alignmeDADDY/assets/23621140/4f91cee7-03e7-43e8-a2c0-9df5ba0b44e3)
 
